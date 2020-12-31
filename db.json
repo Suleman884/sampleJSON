@@ -1,0 +1,193 @@
+
+{
+"people": [
+  {
+    "name": "Muhammad Imran Sup...",
+    "price": "Rs. 30,000,000",
+    "date": "31-08-2020",
+    "items": "10 items",
+    "order": "Order By: Jamshaid Saleem",
+    "time": "9:30 AM",
+    "id": 1
+  },
+  {
+    "name": "My Self",
+    "price": "Rs. 40,000",
+    "date": "28-08-2020",
+    "items": "15 items",
+    "order": "Order By: Usman Jamil",
+    "time": "9:30 AM",
+    "updateby": "Updated by: Usman Jamil",
+    "id": 2
+  },
+  {
+    "name": "Usman Super ",
+    "price": "Rs. 50,000",
+    "date": "20-08-2020",
+    "items": "12 items",
+    "order": "Order By: Jamshaid Saleem",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 3
+  },
+  {
+    "name": "Melf",
+    "price": "Rs. 30,000",
+    "date": "11-08-2020",
+    "items": "11 items",
+    "order": "Order By: Jamshaid Saleem",
+    "time": "9:30 AM",
+    "updateby": "Updated by: Usman ahsan",
+    "id": 4
+  },
+  {
+    "name": "Khurram Super Sore",
+    "price": "Rs. 48,000,000",
+    "date": "01-08-2020",
+    "items": "11 items",
+    "order": "Order By: Ahsan Chaudary",
+    "time": "9:30 AM",
+    "updateby": "Updated by: Usman ali",
+    "id": 6
+  },
+  {
+    "name": "Khurram Super tore",
+    "price": "Rs. 48,000,000",
+    "date": "02-08-2020",
+    "items": "21 items",
+    "order": "Order By: Ali Hamza",
+    "time": "9:30 AM",
+    "id": 7
+  },
+  {
+    "name": "Khurram Supee",
+    "price": "Rs. 48,000,000",
+    "date": "03-08-2020",
+    "items": "22 items",
+    "order": "Order By: Jamshaid Ali",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 8
+  },
+  {
+    "name": "Muhammad Imrup...",
+    "price": "Rs. 30,000,000",
+    "date": "31-08-2020",
+    "items": "10 items",
+    "order": "Order By: Jamshaid Saleem",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 9
+  },
+  {
+    "name": "Mel",
+    "price": "Rs. 40,000",
+    "date": "28-08-2020",
+    "items": "15 items",
+    "order": "Order By: Usman Jamil",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 10
+  },
+  {
+    "name": "Usmae",
+    "price": "Rs. 50,000",
+    "date": "20-08-2020",
+    "items": "12 items",
+    "order": "Order By: Jamshaid Saleem",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 11
+  },
+  {
+    "name": "M",
+    "price": "Rs. 30,000",
+    "date": "11-08-2020",
+    "items": "11 items",
+    "order": "Order By: Jamshaid Saleem",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 12
+  },
+  {
+    "name": "Khurrae",
+    "price": "Rs. 48,000,000",
+    "date": "01-08-2020",
+    "items": "11 items",
+    "order": "Order By: Ahsan Chaudary",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 13
+  },
+  {
+    "name": "Khur Store",
+    "price": "Rs. 48,000,000",
+    "date": "02-08-2020",
+    "items": "21 items",
+    "order": "Order By: Ali Hamza",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 14
+  },
+  {
+    "name": "Khe",
+    "price": "Rs. 48,000,000",
+    "date": "03-08-2020",
+    "items": "20 items",
+    "order": "Order By: Jamshaid Ali",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 15
+  },
+  {
+    "name": "M",
+    "price": "Rs. 30,000",
+    "date": "11-08-2020",
+    "items": "11 items",
+    "order": "Order By: Jamshaid Saleem",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 16
+  },
+  {
+    "name": "Khurrae",
+    "price": "Rs. 48,000,000",
+    "date": "01-08-2020",
+    "items": "10 items",
+    "order": "Order By: Ahsan Chaudary",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 17
+  },
+  {
+    "name": "adnan",
+    "price": "Rs. 48,000,000",
+    "date": "02-08-2020",
+    "items": "20 items",
+    "order": "Order By: Ali Hamza",
+    "time": "9:30 AM",
+    "updateby": "",
+    "id": 18
+  },
+  {
+    "name": "salman",
+    "price": "Rs. 48,000,000",
+    "date": "03-08-2020",
+    "items": "20 items",
+    "order": "Order By: Jamshaid Ali",
+    "time": "9:30 AM",
+    "updateby": "Suleman",
+    "id": 19
+  },
+  {
+    "name": "salman",
+    "price": "Rs. 48,000,000",
+    "date": "03-08-2020",
+    "items": "20 items",
+    "order": "Order By: Jamshaid Ali",
+    "time": "9:30 AM",
+    "updateby": "Suleman",
+    "id": 20
+  }
+]
+}
