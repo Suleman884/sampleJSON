@@ -199,6 +199,99 @@
     "updateby": "Suleman",
     "key": 20
   }
+],
+  
+"quantity":  [
+  {
+    "name": "Nestle Milk pack UHT 27z250ml 12% PK",
+    "units": " 2 units, 3 cartons",
+    "price": 1977,
+    "key": 0
+  },
+  {
+    "name": "Nestle yougart 8",
+    "units": " 1 units",
+    "price": 87,
+    "key": 1
+  },
+  {
+    "name": "Eges zafron parm",
+    "units": " 2 units",
+    "price": 30,
+    "key": 2
+  },
+  {
+    "name": "Prema Milk 2% grade lowfat 1602 edition",
+    "units": " 4 units",
+    "price": 445,
+    "key": 3
+  },
+  {
+    "name": "Nestle yougart 822",
+    "units": " 3 units",
+    "price": 200,
+    "key": 4
+  },
+  {
+    "name": "Nestle yougart 83",
+    "units": " 12 units",
+    "price": 20,
+    "key": 5
+  },
+  {
+    "name": "Nestle yougart 84",
+    "units": " 11 units",
+    "price": 79,
+    "key": 6
+  },
+  {
+    "name": "Nestle yougart 85",
+    "units": " 12 units",
+    "price": 37,
+    "key": 7
+  },
+  {
+    "name": "Nestle yougart 9",
+    "units": " 15 units",
+    "price": 388,
+    "key": 8
+  },
+  {
+    "name": "Nestle yougart 7",
+    "units": " 17 units",
+    "price": 30,
+    "key": 9
+  },
+  {
+    "name": "Nestle yougart 99",
+    "units": " 15 units",
+    "price": 388,
+    "key": 10
+  },
+  {
+    "name": "Nestle yougart 20",
+    "units": " 17 units",
+    "price": 30,
+    "key": 11
+  },
+  {
+    "name": "Nestle yougart 7",
+    "units": " 17 units",
+    "price": 30,
+    "key": 12
+  },
+  {
+    "name": "Nestle yougart 99",
+    "units": " 15 units",
+    "price": 388,
+    "key": 13
+  },
+  {
+    "name": "Nestle yougart 20",
+    "units": " 17 units",
+    "price": 30,
+    "key": 14
+  }
 ]
 
 }
