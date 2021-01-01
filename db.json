@@ -198,6 +198,26 @@
     "time": "9:30 AM",
     "updateby": "Suleman",
     "key": 20
+  },
+  {
+    "name": "saaalman",
+    "price": "Rs. 48,000,000",
+    "date": "03-08-2020",
+    "items": "20 items",
+    "order": "Order By: Jamshaid Ali",
+    "time": "9:30 AM",
+    "updateby": "Suleman",
+    "key": 21
+  },
+  {
+    "name": "sulman",
+    "price": "Rs. 48,000,000",
+    "date": "03-08-2020",
+    "items": "20 items",
+    "order": "Order By: Jamshaid Ali",
+    "time": "9:30 AM",
+    "updateby": "Suleman",
+    "key": 22
   }
 ],
   
